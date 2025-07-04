@@ -22,7 +22,7 @@ Fire safety is a critical need, and early response can prevent large-scale damag
 
 | Circuit Design |
 |------------|
-| ![Circuit](images/decode.PNG) |
+| ![Circuit](decode.PNG) |
 
 
 ---
