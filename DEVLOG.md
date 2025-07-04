@@ -1,6 +1,6 @@
 # 🛠️ DEVLOG.md - ExtinguishX Fire Fighting Robot
 
-## 📅 Description of Changes
+## 📅 Description
 
 - Initial project setup and component selection ✅
 - Implemented flame detection logic using IR sensors ✅
@@ -8,7 +8,7 @@
 
 ---
 
-## 🖼️ Images Representing Changes
+## 🖼️ Hackatime Hours: Total 5 Hours (approx)
 
 | Phase | Screenshot |
 |-------|------------|
