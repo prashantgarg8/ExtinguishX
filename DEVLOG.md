@@ -1,14 +1,14 @@
-# 🛠️ DEVLOG.md - ExtinguishX Fire Fighting Robot
+#  DEVLOG.md - ExtinguishX Fire Fighting Robot
 
-## 📅 Description
+##  Description
 
-- Initial project setup and component selection ✅
-- Implemented flame detection logic using IR sensors ✅
-- Created servo-based aiming mechanism for fire suppression ✅
+- Initial project setup and component selection 
+- Implemented flame detection logic using IR sensors 
+- Created servo-based aiming mechanism for fire suppression 
 
 ---
 
-## 🖼️ Hackatime Hours: Total 5 Hours (approx)
+##  Hackatime Hours: Total 5 Hours (approx)
 
 | Phase | Screenshot |
 |-------|------------|
