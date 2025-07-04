@@ -1,24 +1,24 @@
-# 🚒🧯👩‍🚒 ExtinguishX - Fire Fighting Robot using Arduino
+# ExtinguishX - Fire Fighting Robot using Arduino
 
-## 📖 Description
+## Description
 
 **ExtinguishX** is an autonomous fire-fighting robot developed using Arduino. Designed to detect and extinguish all small fires using IR flame sensors and a servo-mounted pump, the robot can be used in fire-safety demonstrations, educational institutions, and prototype industrial safety automation. The aim is to enhance urban safety and environmental protection by integrating advanced eco-friendly technologies into firefighting vehicles. 
 
 
-## 💡 Why We Made It
+## Why We Made It
 
 Fire safety is a critical need, and early response can prevent large-scale damage. **ExtinguishX** is built to explore how embedded systems and automation can help improve fire hazard responses. This robot demonstrates a smart, low-cost solution with potential for scalability.
 
 ---
 
-## 🧠 Hackatime Project Name
+## Hackatime Project Name
 
 `DECODE`~~ 4 Hours
 `CIRCUITS`~~ 1 Hour
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Circuit Design |
 |------------|
@@ -26,12 +26,12 @@ Fire safety is a critical need, and early response can prevent large-scale damag
 
 
 ---
-## 📄 `code.ino` Attached
+##  `code.ino` Attached
 
 The full Arduino sketch is included as [`code.ino.txt`](code.ino) in the repository.  
 
 
-## 📦 Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
 | Component              | Quantity | Description                     | Link               | Price (INR) | Price (USD) |
 |------------------------|----------|---------------------------------|--------------------|-------------|-------------|
@@ -44,14 +44,14 @@ The full Arduino sketch is included as [`code.ino.txt`](code.ino) in the reposit
 | Batteries              | 3        | Power source                    | *-*         | ₹0          | $0.00       |
 | Breadboard + wires     | 1        | Testing purposes and connections| *[BreadBoard](https://www.amazon.in/gp/product/B07PQS67BN/ref=ox_sc_act_title_3?smid=AJ6SIZC8YQDZX&psc=1)*         | ₹200        | $2.41       |
 
-## 💰 Total Cost
+## Total Cost
 
 - **Total Price (INR):** ₹2000
 - **Total Price (USD):** $25.08 (approx. with shipping)
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 - `README.md` – This documentation
 - `DEVLOG.md` – Development log with progress and changes
