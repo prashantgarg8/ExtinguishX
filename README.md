@@ -28,7 +28,7 @@ Fire safety is a critical need, and early response can prevent large-scale damag
 ---
 ##  `code.ino` Attached
 
-The full Arduino sketch is included as [`code.ino.txt`](code.ino) in the repository.  
+The full Arduino sketch is included as [`code.ino`](code.ino) in the repository.  
 
 
 ##  Bill of Materials (BOM)
