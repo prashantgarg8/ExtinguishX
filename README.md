@@ -11,12 +11,6 @@ Fire safety is a critical need, and early response can prevent large-scale damag
 
 ---
 
-## Hackatime Project Name
-
-`DECODE`~~ 4 Hours
-`CIRCUITS`~~ 1 Hour
-
----
 
 ## Screenshots
 
